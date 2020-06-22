@@ -1,5 +1,4 @@
 # kubytclient
-Kubyt Client Public Files
 
 Here is a quick tutorial on how to display your players DISPLAY name (meaning if your nametag is changed, it will showup):
 
