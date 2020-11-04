@@ -1,2 +1,2 @@
 # Qubyt Client
-Qubyt Client Public Files
+An addon to Optifine's Zoom
