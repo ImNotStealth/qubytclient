@@ -1,2 +1,2 @@
 # Qubyt Client
-Qubyt Client Public Files
+Qubyt Client Public Files (mostly used to share in ESS)
