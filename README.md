@@ -1,2 +1,2 @@
-# kubytclient
-Kubyt Client Public Files
+# Qubyt Client
+Qubyt Client Public Files
