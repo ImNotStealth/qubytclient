@@ -6,7 +6,7 @@ An addon to Optifine's Zoom
 **Legend**:
 - (GH) file associated with the repo
 
-The steps might be a bit hard to follow, so if you have a problem just ping me on ESS
+The steps might be a bit hard to follow, so if you have any problems, you can view the pictures associated or ping me on ESS!
 
 **Steps**:
 - (1) Go to net.minecraft.client.renderer.EntityRenderer.java and search for **Config.zoomMode**, once you found it, copy the code found in the EntityRenderer file (GH) and paste it after getFOVModifier method, it will be handling the scrolling part.
